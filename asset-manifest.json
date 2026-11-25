@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/2026_MarketKurly/static/css/main.0e010b3c.css",
-    "main.js": "/2026_MarketKurly/static/js/main.f48fd6ab.js",
+    "main.js": "/2026_MarketKurly/static/js/main.c517e3f6.js",
     "index.html": "/2026_MarketKurly/index.html",
     "main.0e010b3c.css.map": "/2026_MarketKurly/static/css/main.0e010b3c.css.map",
-    "main.f48fd6ab.js.map": "/2026_MarketKurly/static/js/main.f48fd6ab.js.map"
+    "main.c517e3f6.js.map": "/2026_MarketKurly/static/js/main.c517e3f6.js.map"
   },
   "entrypoints": [
     "static/css/main.0e010b3c.css",
-    "static/js/main.f48fd6ab.js"
+    "static/js/main.c517e3f6.js"
   ]
 }
